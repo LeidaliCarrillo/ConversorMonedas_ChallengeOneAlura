@@ -15,6 +15,7 @@ La app funciona con un listado de monedas para facilitar la interacción y ampli
 <img width="376" height="265" alt="image" src="https://github.com/user-attachments/assets/d849a118-54fe-45ae-b404-123db81ed851" />
 
 - Posterior a eso te pedirá que selecciones una opción, el monto a conevertir y arrojará el resultado.
-<img width="357" height="79" alt="image" src="https://github.com/user-attachments/assets/1cb1f9da-1ee6-4158-94ad-a0ab0debf454" />
+<img width="328" height="91" alt="image" src="https://github.com/user-attachments/assets/b3155641-1494-4e9c-8381-697cf99140eb" />
+
 
  
